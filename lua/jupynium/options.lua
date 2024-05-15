@@ -82,7 +82,7 @@ M.default_opts = {
   -- Files to be detected as a jupynium file.
   -- Add highlighting, keybindings, commands (e.g. :JupyniumStartAndAttachToServer)
   -- Modify this if you already have lots of files in Jupytext format, for example.
-  jupynium_file_pattern = { "*.ju.*" },
+  jupynium_file_pattern = { ".py" },
 
   use_default_keybindings = true,
   textobjects = {

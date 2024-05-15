@@ -1,3 +1,5 @@
+Fork as the plugin does not have an API to change default keybindings.
+
 # Jupynium: Control Jupyter Notebook on Neovim with ZERO Compromise
 
 <a href="https://github.com/kiyoon/jupynium.nvim/actions/workflows/tests.yml">
